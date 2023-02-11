@@ -29,7 +29,7 @@ Python fundamentals; calculus; linear algebra.
 
 Due to the continuously evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
-In addition, [here](https://github.com/erodola/DLAI-s2-2022/blob/main/resources/Course_notes_Crisostomi.pdf) you can find some supplementary course notes.
+In addition, [here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/Course_notes_Crisostomi.pdf) you can find some supplementary course notes.
 
 ### Grading
 
