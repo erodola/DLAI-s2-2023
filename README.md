@@ -3,7 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
-- **11/02/2023:** The course website is online. Welcome to DLAI 2022/23!
+- **11/02/2023:** The course website is online. Welcome to DLAI 2022/23! **The course will start on Tue 28th February**.
 
 ### Logistics
 
