@@ -9,7 +9,7 @@ Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 **Lecturer:** Prof. Emanuele Rodolà
 
-**Assistants:** Dr. Antonio Norelli, _plus more TBD_
+**Assistants:** Dr. Antonio Norelli, Dr. Luca Moschella, Dr. Marco Fumero
 
 **When:** Tuesdays 13:00--16:00 and Wednesdays 13:00--15:00
 
