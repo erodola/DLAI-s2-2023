@@ -64,5 +64,5 @@ Tue 14 Mar | Linear models and Pytorch Datasets | | [![Open In Colab](https://co
 Wed 15 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/05_nonlinear/05-nonlinear.pdf) |
 Tue 21 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb)
 Wed 22 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/06_sgd/06-sgd.pdf) |
-Tue 28 Mar | *upcoming* |  |
+Tue 28 Mar |  Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/05/5_Autograd_and_Modules_2023.ipynb)
 Wed 29 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/07_mlp/07-mlp.pdf) ; [video](https://drive.google.com/file/d/1Eb25ov9i-Zx5DxHYYpckltSNpT6U8FDH/view?usp=sharing) |
