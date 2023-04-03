@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **03/04/2023:** The lecture of **April 11th is cancelled** due to Easter holidays, as per the academic calendar.
 - **27/03/2023:** The lectures of Tue 28 and Wed 29 March **will be held remotely** due to illness. _Tue 28_: The notebook will be uploaded shortly, and you can work on it from your homes; the Professor and the teaching assistants will be on the Discord server during the 3 hours, to assist you in real time. _Wed 29_: The slides are already up, together with a video recording of the Professor explaining the new topic; the recording is from DLAI 2021, which overlaps well with the new slides up to some simplifications.
 - **11/02/2023:** The course website is online. Welcome to DLAI 2022/23! **The course will start on Tue 28th February**.
 
