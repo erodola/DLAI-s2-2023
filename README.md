@@ -69,3 +69,5 @@ Tue 28 Mar |  Autograd and Modules | | [![Open In Colab](https://colab.research.
 Wed 29 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/07_mlp/07-mlp.pdf) ; [video](https://drive.google.com/file/d/1Eb25ov9i-Zx5DxHYYpckltSNpT6U8FDH/view?usp=sharing) |
 Tue 04 Apr | Convolutional Neural Networks |  | *upcoming*
 Wed 05 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/08_cnn/08-cnn.pdf) |
+Tue 11 Apr | **Easter holidays** |  | 
+Wed 12 Apr | *upcoming* | |
