@@ -67,7 +67,7 @@ Tue 21 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://
 Wed 22 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/06_sgd/06-sgd.pdf) |
 Tue 28 Mar |  Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/05/5_Autograd_and_Modules_2023.ipynb)
 Wed 29 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/07_mlp/07-mlp.pdf) ; [video](https://drive.google.com/file/d/1Eb25ov9i-Zx5DxHYYpckltSNpT6U8FDH/view?usp=sharing) |
-Tue 04 Apr | Convolutional Neural Networks |  | *upcoming*
+Tue 04 Apr | Convolutional Neural Networks   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/06/6_Convolutional_Neural_Networks_2023.ipynb) |
 Wed 05 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/08_cnn/08-cnn.pdf) |
-Tue 11 Apr | **Easter holidays** |  | 
+Tue 11 Apr | **Easter holidays** |  |
 Wed 12 Apr | *upcoming* | |
