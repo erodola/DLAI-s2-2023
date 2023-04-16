@@ -71,3 +71,5 @@ Tue 04 Apr | Convolutional Neural Networks   |  | [![Open In Colab](https://cola
 Wed 05 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/08_cnn/08-cnn.pdf) |
 Tue 11 Apr | **Easter holidays** |  |
 Wed 12 Apr | Regularization, batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/09_regular/09-regular.pdf) |
+Tue 18 Apr | *upcoming* |  |
+Wed 19 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/10_generative/10-generative.pdf) |
