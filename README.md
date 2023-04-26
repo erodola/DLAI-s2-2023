@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **26/04/2023:** The **midterm sheet** is now published. Students who wish to have their answers checked must deliver **by today at 15:00** via email (rodola@di.uniroma1.it).
 - **19/04/2023:** The lecture of **April 25th is cancelled** due to the Liberation Day, as per the academic calendar. On **April 26th** we will do a self-evaluation test; more details will follow.
 - **03/04/2023:** The lecture of **April 11th is cancelled** due to Easter holidays, as per the academic calendar.
 - **27/03/2023:** The lectures of Tue 28 and Wed 29 March **will be held remotely** due to illness. _Tue 28_: The notebook will be uploaded shortly, and you can work on it from your homes; the Professor and the teaching assistants will be on the Discord server during the 3 hours, to assist you in real time. _Wed 29_: The slides are already up, together with a video recording of the Professor explaining the new topic; the recording is from DLAI 2021, which overlaps well with the new slides up to some simplifications.
@@ -75,4 +76,4 @@ Wed 12 Apr | Regularization, batchnorm and dropout | [slides](https://github.com
 Tue 18 Apr | Uncertainty, regularization and the deep learning toolset | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/labs/07/ML%20Tooling%202022.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) |
 Wed 19 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/10_generative/10-generative.pdf) ; [video](https://drive.google.com/file/d/1GCsGIEumWR0GMJ9OijYjwMhq61OFKTGh/view?usp=sharing) |
 Tue 25 Apr | **Liberation Day** |  |
-Wed 26 Apr | **Midterm self-evaluation** | _more details soon_  |
+Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm.pdf)  |
