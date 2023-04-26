@@ -3,7 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
-- **26/04/2023:** The **midterm sheet** is now published. Students who wish to have their answers checked must deliver **by today at 15:00** via email (rodola@di.uniroma1.it).
+- **26/04/2023:** The **midterm sheet** is now published. Students who wish to have their answers checked must deliver **by today at 15:15** via email (rodola@di.uniroma1.it).
 - **19/04/2023:** The lecture of **April 25th is cancelled** due to the Liberation Day, as per the academic calendar. On **April 26th** we will do a self-evaluation test; more details will follow.
 - **03/04/2023:** The lecture of **April 11th is cancelled** due to Easter holidays, as per the academic calendar.
 - **27/03/2023:** The lectures of Tue 28 and Wed 29 March **will be held remotely** due to illness. _Tue 28_: The notebook will be uploaded shortly, and you can work on it from your homes; the Professor and the teaching assistants will be on the Discord server during the 3 hours, to assist you in real time. _Wed 29_: The slides are already up, together with a video recording of the Professor explaining the new topic; the recording is from DLAI 2021, which overlaps well with the new slides up to some simplifications.
