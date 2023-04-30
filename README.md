@@ -77,3 +77,4 @@ Tue 18 Apr | Uncertainty, regularization and the deep learning toolset | [slides
 Wed 19 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/10_generative/10-generative.pdf) ; [video](https://drive.google.com/file/d/1GCsGIEumWR0GMJ9OijYjwMhq61OFKTGh/view?usp=sharing) |
 Tue 25 Apr | **Liberation Day** |  |
 Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm.pdf)  |
+Tue 02 May | Variational Autoencoders |  |  _notebook upcoming_
