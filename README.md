@@ -78,3 +78,4 @@ Wed 19 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s
 Tue 25 Apr | **Liberation Day** |  |
 Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm.pdf)  |
 Tue 02 May | Variational Autoencoders |  |  _notebook upcoming_
+Wed 03 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/11_gdl/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | _notebook upcoming_ |
