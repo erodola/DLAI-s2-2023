@@ -65,7 +65,21 @@ Tue 07 Mar | Tensor manipulation and Tensor operations | | [![Open In Colab](htt
 Wed 08 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/04_linear/04-linear.pdf) |
 Tue 14 Mar | Linear models and Pytorch Datasets | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/03_Linear_models_and_Pytorch_Datasets_2023.ipynb)
 Wed 15 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/05_nonlinear/05-nonlinear.pdf) |
-Tue 21 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb)
+Tue 21 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sation via Unsupervised Heterogeneous Domain
+Adaptation
+paper1056
+Abstract
+The paper proposes a 3D shape classification method based on unsupervised heterogeneous domain adaptation. The goal is to
+recognize 3D shapes with only labeled 2D images and unlabeled 3D shapes. To address this challenge, the proposed method
+uses domain adaptation to align the distribution of the 2D image and 3D shape, multi-view feature consistency to optimize
+the classification network using internal constraints, and pseudo-label source domain enhancement to improve classification
+accuracy. First, our method aligns the distribution of the 2D image and 3D shape data using domain adaptation. This step
+aims to reduce the divergence between the heterogeneous data by adaptively integrating feature distribution and adjusting the
+classification boundary. Then, the classification network is optimized using the internal constraints of the consistency of the 3D
+shape’s multi-view features and tags. Finally, the source domain data is enhanced using a dynamic pseudo-labeling method fur-
+ther to improve the classification effect of the 3D shape. The proposed method was compared with representative unsupervised
+3D shape classification methods, and the influence of different key parameters was explored. The experimental results showed
+that the proposed method outperformed other methods and demonstrated the superiority of the proposvg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb)
 Wed 22 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/06_sgd/06-sgd.pdf) |
 Tue 28 Mar |  Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/05/5_Autograd_and_Modules_2023.ipynb)
 Wed 29 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/07_mlp/07-mlp.pdf) ; [video](https://drive.google.com/file/d/1Eb25ov9i-Zx5DxHYYpckltSNpT6U8FDH/view?usp=sharing) |
@@ -77,5 +91,5 @@ Tue 18 Apr | Uncertainty, regularization and the deep learning toolset | [slides
 Wed 19 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/10_generative/10-generative.pdf) ; [video](https://drive.google.com/file/d/1GCsGIEumWR0GMJ9OijYjwMhq61OFKTGh/view?usp=sharing) |
 Tue 25 Apr | **Liberation Day** |  |
 Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm.pdf)  |
-Tue 02 May | Variational Autoencoders |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb) | 
+Tue 02 May | Variational Autoencoders |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb) | 
 Wed 03 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/11_gdl/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | _notebook upcoming_ |
