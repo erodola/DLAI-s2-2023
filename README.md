@@ -82,3 +82,4 @@ Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DL
 Tue 02 May | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb)  
 Wed 03 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/11_gdl/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/9_Geometric_deep_learning.ipynb) |
 Tue 09 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/12_trans/12-trans.pdf) | _notebook upcoming_
+Wed 10 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/13_adversarial/13-adversarial.pdf) |
