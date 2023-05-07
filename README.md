@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **07/05/2023:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf)). The code for this course is 2YSAJJWX.
 - **07/05/2023:** The **midterm grades** are now published.
 - **26/04/2023:** The **midterm sheet** is now published. Students who wish to have their answers checked must deliver **by today at 15:15** via email (rodola@di.uniroma1.it).
 - **19/04/2023:** The lecture of **April 25th is cancelled** due to the Liberation Day, as per the academic calendar. On **April 26th** we will do a self-evaluation test; more details will follow.
