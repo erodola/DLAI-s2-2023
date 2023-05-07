@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **07/05/2023:** The **midterm grades** are now published.
 - **26/04/2023:** The **midterm sheet** is now published. Students who wish to have their answers checked must deliver **by today at 15:15** via email (rodola@di.uniroma1.it).
 - **19/04/2023:** The lecture of **April 25th is cancelled** due to the Liberation Day, as per the academic calendar. On **April 26th** we will do a self-evaluation test; more details will follow.
 - **03/04/2023:** The lecture of **April 11th is cancelled** due to Easter holidays, as per the academic calendar.
@@ -76,6 +77,6 @@ Wed 12 Apr | Regularization, batchnorm and dropout | [slides](https://github.com
 Tue 18 Apr | Uncertainty, regularization and the deep learning toolset | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/labs/07/ML%20Tooling%202022.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) |
 Wed 19 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/10_generative/10-generative.pdf) ; [video](https://drive.google.com/file/d/1GCsGIEumWR0GMJ9OijYjwMhq61OFKTGh/view?usp=sharing) |
 Tue 25 Apr | **Liberation Day** |  |
-Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm.pdf)  |
+Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm.pdf) ; [grades](https://github.com/erodola/DLAI-s2-2023/raw/main/DLAI_Apr26_Midterm-grades.pdf) |
 Tue 02 May | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb)  
 Wed 03 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/11_gdl/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/9_Geometric_deep_learning.ipynb) |
