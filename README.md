@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **10/05/2023:** Due to logistic issues, **today's lecture will be held remotely** through a pre-recorded video; please scroll down to download the video. Apologies for the inconvenience, and please feel free to reach out to the Professor if you have any questions.
 - **07/05/2023:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf)). The code for this course is 2YSAJJWX.
 - **07/05/2023:** The **midterm grades** are now published.
 - **26/04/2023:** The **midterm sheet** is now published. Students who wish to have their answers checked must deliver **by today at 15:15** via email (rodola@di.uniroma1.it).
@@ -82,4 +83,4 @@ Wed 26 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DL
 Tue 02 May | Variational Autoencoders | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb)  
 Wed 03 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/11_gdl/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/9_Geometric_deep_learning.ipynb) |
 Tue 09 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/12_trans/12-trans.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/10/10_Transformers_2023.ipynb) |
-Wed 10 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/13_adversarial/13-adversarial.pdf) |
+Wed 10 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/13_adversarial/13-adversarial.pdf) ; [video](https://drive.google.com/file/d/1GS7V_mUBsUkX4tvE9-b5EnudHBTTgr42/view?usp=share_link) |
