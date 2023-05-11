@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **11/05/2023:** The list of projects is now published, please scroll down to the Grading section for more details.
 - **10/05/2023:** Due to logistic issues, **today's lecture will be held remotely** through a pre-recorded video; please scroll down to download the video. Apologies for the inconvenience, and please feel free to reach out to the Professor if you have any questions.
 - **07/05/2023:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf)). The code for this course is 2YSAJJWX.
 - **07/05/2023:** The **midterm grades** are now published.
@@ -48,6 +49,8 @@ Evaluation proceeds according to the following steps:
 - An oral exam (optional, attributes at most 3 points, added to or subtracted from the final grade)
 
 We may require an oral exam in doubtful cases or whenever necessary.
+
+The list of **projects** is available [here](https://github.com/erodola/DLAI-s2-2023/raw/main/ListOfProjects.pdf). Each project must be accompanied with code + a 2 page report using a fixed template, available [here](https://github.com/erodola/DLAI-s2-2023/raw/main/template.zip). Projects can be made in groups of at most 2 students, but in this case, you must motivate this decision and get our approval beforehand.
 
 Here you can find some example sheets of past written exams:
 
