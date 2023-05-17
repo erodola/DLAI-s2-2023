@@ -88,4 +88,4 @@ Wed 03 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-
 Tue 09 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/12_trans/12-trans.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/10/10_Transformers_2023.ipynb) |
 Wed 10 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/13_adversarial/13-adversarial.pdf) ; [video](https://drive.google.com/file/d/1GS7V_mUBsUkX4tvE9-b5EnudHBTTgr42/view?usp=share_link) |
 Tue 16 May | CycleGAN and Adversarial Attacks  |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/09/CycleGAN_and_Adversarial_Attacks.ipynb) |
-Wed 17 May | Invited lecture: _Andrea Santilli - "From symbolic representations to ChatGPT"_ | _slides upcoming_ |
+Wed 17 May | Invited lecture: _Andrea Santilli - "From symbolic representations to ChatGPT"_ |  |
