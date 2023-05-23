@@ -89,6 +89,6 @@ Tue 09 May | Self-attention and transformers | [slides](https://github.com/erodo
 Wed 10 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/13_adversarial/13-adversarial.pdf) ; [video](https://drive.google.com/file/d/1GS7V_mUBsUkX4tvE9-b5EnudHBTTgr42/view?usp=share_link) |
 Tue 16 May | CycleGAN and Adversarial Attacks  |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/09/CycleGAN_and_Adversarial_Attacks.ipynb) |
 Wed 17 May | Invited lecture: _Andrea Santilli - "From symbolic representations to ChatGPT"_ | [slides](https://github.com/erodola/DLAI-s2-2023/raw/main/chatgpt_slides.pdf) |
-Tue 23 May | Invited lecture: _Michele Mancusi and Giorgio Mariani - "Diffusion-based generative models for audio"_ | _slides upcoming_ | _notebook upcoming_
+Tue 23 May | Invited lecture: _Michele Mancusi and Giorgio Mariani - "Diffusion-based generative models for audio"_ | [slides](https://docs.google.com/presentation/d/1RaWwmloam3UbN6mLZMwnDizQ9Y496bO5/edit?usp=sharing&ouid=112460708373464913621&rtpof=true&sd=true) | _notebook upcoming_
 
 **End**
