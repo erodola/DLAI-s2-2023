@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science
 
 ### News
+- **01/08/2023:** The grades for the written exam of July 19th are available [here](https://github.com/erodola/DLAI-s2-2023/raw/main/July19-grades.pdf)
 - **29/06/2023:** The grades for the written exam of June 27th are available [here](https://github.com/erodola/DLAI-s2-2023/raw/main/June27-grades.pdf)
 - **11/05/2023:** The list of projects is now published, please scroll down to the Grading section for more details.
 - **10/05/2023:** Due to logistic issues, **today's lecture will be held remotely** through a pre-recorded video; please scroll down to download the video. Apologies for the inconvenience, and please feel free to reach out to the Professor if you have any questions.
